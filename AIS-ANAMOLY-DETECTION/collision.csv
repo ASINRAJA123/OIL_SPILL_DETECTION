@@ -1,0 +1,2 @@
+MMSI,BaseDateTime,LAT,LON,SOG,COG,Heading,VesselName,IMO,CallSign,VesselType,neighbor_MMSI,neighbor_BaseDateTime,neighbor_ship_latitude,neighbor_ship_longitude,neighbor_ship_SOG,neighbor_ship_COG,neighbor_ship_Heading,neighbor_ship_name,neighbor_ship_IMO,neighbor_ship_CallSign,neighbor_ship_VesselType,distance
+564329000,2022-03-31 23:42:26,28.47842,-94.57852,5.2,264.1,260.0,EAGLE KLANG,IMO9417892,9V8640,80.0,636017299,2022-03-31 23:42:26,28.47803,-94.57827,5.1,262.1,261.0,WEDYAN,IMO9524970,D5KG2,80.0,49.776329826683096
