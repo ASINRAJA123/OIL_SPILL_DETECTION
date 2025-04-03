@@ -16,3 +16,6 @@ This system combines real-time vessel tracking (AIS data) and satellite imagery 
 
 🌍 Why It Matters:
 Oil spills devastate marine ecosystems and economies. My project slashes response time, ensuring rapid containment—because every second counts! 🐟🆘
+
+
+![WhatsApp Image 2025-04-03 at 11 05 27 AM](https://github.com/user-attachments/assets/0896cca6-a4c1-4e63-8ede-992c393e4750)
