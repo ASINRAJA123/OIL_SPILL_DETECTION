@@ -1,5 +1,18 @@
-Abstract: Detecting Oil Spills in Marine Environments Using AIS and Satellite Data Integration
-Oil spills in marine environments pose critical threats to ecosystems and economies, necessitating efficient detection systems for rapid response. This paper presents a novel framework combining Automatic Identification System (AIS) data with satellite imagery for early and accurate oil spill detection. The solution integrates advanced vessel behavior analysis techniques, including Long Short-Term Memory (LSTM), Kalman filtering, and rule-based filtering, to identify path deviations and anomalies indicative of potential spills.
-Satellite images are analyzed using DeepLabv3, achieving a detection accuracy of 92%, for pixel-level segmentation to identify oil spill patterns effectively. Gated Recurrent Units (GRU) refine path anomaly detection, improving prediction accuracy to 95%. Rasterio-based histogram analysis further enhances the framework's ability to distinguish oil spill patterns from environmental noise.
-Once spills are confirmed, the system employs Simple Mail Transfer Protocol (SMTP) to issue real-time alerts to authorities, neighboring vessels, and ports, facilitating swift and coordinated responses. This integrated approach achieves high precision, scalability, and efficiency, significantly contributing to environmental protection and maritime safety.
-Keywords: Oil Spill Detection, AIS Data, Satellite Image Processing, DeepLabv3, GRU, LSTM, Kalman Filter, Semantic Segmentation, Environmental Protection, Maritime Safety
+🚀 Introducing My Cutting-Edge Project: AI-Powered Oil Spill Detection System for Marine Safety! 🌊🛰️
+
+I’m thrilled to present my innovative project: "Detecting Oil Spills in Marine Environments Using AIS and Satellite Data Integration"—a breakthrough solution designed to protect our oceans with speed, precision, and advanced AI! 🌍💡
+
+🔍 What It Does:
+This system combines real-time vessel tracking (AIS data) and satellite imagery (Sentinel-1 SAR) to detect oil spills faster than ever before! By leveraging machine learning models like DeepLabv3 (92% accuracy!), GRU, LSTM, and Kalman filtering, it identifies suspicious vessel behavior (e.g., sudden stops or path deviations) and correlates it with oil spill patterns in satellite images. 🌊📡
+
+✨ Key Features:
+🚢 Anomaly Detection: Flags unusual ship movements (e.g., spills, collisions) using GRU/LSTM networks.
+
+🛰️ Satellite Analysis: Uses DeepLabv3 to segment oil spills in SAR images with 92% accuracy.
+
+🌤️ Weather Integration: Cross-checks with Copernicus API to avoid false alarms (wind, waves, etc.).
+
+🚨 Real-Time Alerts: Automatically notifies authorities, ports, and nearby ships via SMS/email with spill coordinates and ship details! 📲📍
+
+🌍 Why It Matters:
+Oil spills devastate marine ecosystems and economies. My project slashes response time, ensuring rapid containment—because every second counts! 🐟🆘
