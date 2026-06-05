@@ -22,7 +22,7 @@ def process_spill_data(spill_data_path, ais_data_path, ports_data_path,save_dir_
     SMTP_SERVER = 'smtp.gmail.com'
     SMTP_PORT = 587
     SENDER_EMAIL = "ismailsudais2005@gmail.com"
-    SENDER_PASSWORD = "zlzz ywtm ycdk qftq"
+    SENDER_PASSWORD = ""
 
     def calculate_distance(lat1, lon1, lat2, lon2):
         return geodesic((lat1, lon1), (lat2, lon2)).kilometers
